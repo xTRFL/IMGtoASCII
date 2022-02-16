@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\CSprojekty\Ascii img\bin\Debug\netcoreapp3.1\Ascii img.exe
+C:\Users\User\source\repos\CSprojekty\Ascii img\bin\Debug\netcoreapp3.1\Ascii img.deps.json
+C:\Users\User\source\repos\CSprojekty\Ascii img\bin\Debug\netcoreapp3.1\Ascii img.runtimeconfig.json
+C:\Users\User\source\repos\CSprojekty\Ascii img\bin\Debug\netcoreapp3.1\Ascii img.runtimeconfig.dev.json
+C:\Users\User\source\repos\CSprojekty\Ascii img\bin\Debug\netcoreapp3.1\Ascii img.dll
+C:\Users\User\source\repos\CSprojekty\Ascii img\bin\Debug\netcoreapp3.1\Ascii img.pdb
+C:\Users\User\source\repos\CSprojekty\Ascii img\obj\Debug\netcoreapp3.1\Ascii img.csprojAssemblyReference.cache
+C:\Users\User\source\repos\CSprojekty\Ascii img\obj\Debug\netcoreapp3.1\Ascii_img.Form1.resources
+C:\Users\User\source\repos\CSprojekty\Ascii img\obj\Debug\netcoreapp3.1\Ascii img.csproj.GenerateResource.cache
+C:\Users\User\source\repos\CSprojekty\Ascii img\obj\Debug\netcoreapp3.1\Ascii img.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\CSprojekty\Ascii img\obj\Debug\netcoreapp3.1\Ascii img.AssemblyInfo.cs
+C:\Users\User\source\repos\CSprojekty\Ascii img\obj\Debug\netcoreapp3.1\Ascii img.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\CSprojekty\Ascii img\obj\Debug\netcoreapp3.1\Ascii img.dll
+C:\Users\User\source\repos\CSprojekty\Ascii img\obj\Debug\netcoreapp3.1\Ascii img.pdb
+C:\Users\User\source\repos\CSprojekty\Ascii img\obj\Debug\netcoreapp3.1\Ascii img.genruntimeconfig.cache
